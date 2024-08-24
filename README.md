@@ -9,7 +9,6 @@ The primary goal of this project was to leverage historical sales data to uncove
 # Key Features:
 
 **Data Exploration and Cleaning:**
-
 Imported and explored the dataset to understand the structure and contents.
 Cleaned the data to handle missing values, duplicates, and inconsistencies, ensuring accurate analysis.
 
